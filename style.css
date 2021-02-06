@@ -1,0 +1,32 @@
+.pro
+{ display:flex;
+  justify-content: space-evenly; 
+  align-items: center;
+  
+}
+
+.link
+{ display:flex;
+justify-content: space-evenly;
+
+}
+
+.para
+{
+ 
+}
+
+.b
+{
+ background-color: #138808;
+ background-image: url("flag.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 120% 
+}
+
+#Name
+{
+	margin-left:190px
+}
